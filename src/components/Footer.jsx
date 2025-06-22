@@ -1,4 +1,4 @@
-import React from 'react'
+//4
 
 const Footer = () => {
   return (
